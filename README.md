@@ -49,7 +49,9 @@ Une carte sans source valide affiche **indisponible / en attente**, jamais une v
 - [AGENTS.md](AGENTS.md) — règles de collaboration compatibles avec plusieurs assistants IA.
 - [docs/ETUDE_TECHNIQUE.md](docs/ETUDE_TECHNIQUE.md) — synthèse traçable de l'étude technique du 05/11/2026.
 - [docs/DIAGNOSTIC_AUTORADIO.md](docs/DIAGNOSTIC_AUTORADIO.md) — contrôles en lecture seule à effectuer sur le Hizpo.
-- [docs/DESIGN_ET_ARCHITECTURE.md](docs/DESIGN_ET_ARCHITECTURE.md) — spécification fonctionnelle du concept B et architecture envisagée.
+- [docs/DESIGN_ET_ARCHITECTURE.md](docs/DESIGN_ET_ARCHITECTURE.md) — spécification fonctionnelle du concept B, révision B2 et architecture envisagée.
+- [docs/THEMES_JOUR_NUIT.md](docs/THEMES_JOUR_NUIT.md) — palettes, composants et logique de bascule jour / nuit.
+- [docs/VEHICULE_3D_REACTIF.md](docs/VEHICULE_3D_REACTIF.md) — réactions de la voiture 3D, sources, statuts et priorités.
 
 Le document de référence initial est intitulé **« Launcher Fiesta – étude technique et faisabilité »** (10 pages, 05/11/2026). Les notes ci-dessus en restituent les conclusions ; leurs hypothèses **ne sont pas** des validations matérielles sur le véhicule.
 
@@ -78,7 +80,8 @@ Le document de référence initial est intitulé **« Launcher Fiesta – étude
 - [ ] Relevé Android / MCU / résolution / décodeur CAN
 - [ ] Identification de l'application CarPlay et tests des sessions média
 - [ ] Tests des informations véhicule réellement visibles
-- [ ] Maquette B mise à jour avec états de données réels
+- [x] Maquette B2 proposée avec états de données réels, thème jour / nuit et artboard Démo (à valider)
+- [ ] Validation de B2 par le propriétaire
 - [ ] Prototype launcher Android
 - [ ] Recherche et validation d'un modèle 3D Fiesta utilisable
 - [ ] Décision sur un éventuel adaptateur OBD2
