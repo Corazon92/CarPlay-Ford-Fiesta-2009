@@ -44,3 +44,7 @@
 ### Interdictions
 
 Pas de flash, root, changement de CAN box/profil, écriture de trames, codage véhicule, effacement DTC ou modification de MCU. Ne pas copier de secrets, adresses, VIN, journaux bruts ou identifiants dans un dépôt public.
+
+## Complément (étape 2 — 05/11/2026)
+
+Procédure détaillée, captures et modèle de relevé : dossier [`diagnostic/`](../diagnostic/README.md). Recherche : [`RECHERCHE_FYT_CAN.md`](RECHERCHE_FYT_CAN.md). Point d'attention : « UIS7862 » ne prouve pas la famille FYT (la famille QF existe pour certains Hizpo) ; vérifier avant de miser sur `com.syu.ms`.
