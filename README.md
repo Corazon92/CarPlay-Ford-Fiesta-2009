@@ -44,6 +44,14 @@ L'objectif du premier prototype est limité aux API Android documentées : heure
 
 Une carte sans source valide affiche **indisponible / en attente**, jamais une valeur inventée.
 
+## Reprendre depuis une autre IA / un autre ordinateur
+
+**[Lire REPRISE_PROJET.md](REPRISE_PROJET.md) en premier** : contexte, design choisi, état technique, tâches ouvertes, liens et prompt de reprise. Claude Code peut aussi lire [CLAUDE.md](CLAUDE.md), et les autres outils [AGENTS.md](AGENTS.md).
+
+**Diagnostic en cours :** [PR #1 — Fiesta Diag et recherches CAN/FYT/QF](https://github.com/Corazon92/CarPlay-Ford-Fiesta-2009/pull/1) ; prototype expérimental non compilé. Cette branche n'est **pas fusionnée**, et une résolution du conflit README peut être nécessaire après les modifications B2 sur `main`.
+
+**Références visuelles :** les captures B2 et le mockup premium sont décrits dans [REPRISE_PROJET.md](REPRISE_PROJET.md), mais les images PNG et le PDF d'origine ne sont **pas encore archivés en binaire** dans le dépôt.
+
 ## Organisation du dépôt
 
 - [AGENTS.md](AGENTS.md) — règles de collaboration compatibles avec plusieurs assistants IA.
