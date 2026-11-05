@@ -49,6 +49,7 @@ Une carte sans source valide affiche **indisponible / en attente**, jamais une v
 - [AGENTS.md](AGENTS.md) — règles de collaboration compatibles avec plusieurs assistants IA.
 - [docs/ETUDE_TECHNIQUE.md](docs/ETUDE_TECHNIQUE.md) — synthèse traçable de l'étude technique du 05/11/2026.
 - [docs/DIAGNOSTIC_AUTORADIO.md](docs/DIAGNOSTIC_AUTORADIO.md) — contrôles en lecture seule à effectuer sur le Hizpo.
+- [diagnostic/](diagnostic/README.md) — procédure détaillée, captures, prototype d'app de diagnostic ; [docs/RECHERCHE_FYT_CAN.md](docs/RECHERCHE_FYT_CAN.md) et [docs/APP_DIAGNOSTIC.md](docs/APP_DIAGNOSTIC.md).
 - [docs/DESIGN_ET_ARCHITECTURE.md](docs/DESIGN_ET_ARCHITECTURE.md) — spécification fonctionnelle du concept B et architecture envisagée.
 
 Le document de référence initial est intitulé **« Launcher Fiesta – étude technique et faisabilité »** (10 pages, 05/11/2026). Les notes ci-dessus en restituent les conclusions ; leurs hypothèses **ne sont pas** des validations matérielles sur le véhicule.
